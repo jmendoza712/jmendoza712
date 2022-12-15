@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Mendoza</h1>
+<h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">A highly-motivated full-stack developer from Venezuela living in London</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmendoza712" alt="jmendoza712" /></a> </p>
