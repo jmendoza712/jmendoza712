@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, StimulusJS**
 
-- 📄 Know about my experiences [www.linkedin.com/in/juan-manuel-mendoza-b062198a](www.linkedin.com/in/juan-manuel-mendoza-b062198a)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jmendoza712/](https://www.linkedin.com/in/jmendoza712/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
