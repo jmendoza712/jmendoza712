@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmendoza712" alt="jmendoza712" /></a> </p>
 
-- 🔭 I’m currently working on [PxlSounds](http://www.pxlsounds.com)
+- 🔭 I’m currently looking for open Associate Web Developer roles. 
 
-- 🌱 I’m currently learning **Ruby on Rails, StimulusJS**
+- 🌱 I’m currently reviewing **JavaScript** and learning **ReactJS**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jmendoza712/](https://www.linkedin.com/in/jmendoza712/)
 
